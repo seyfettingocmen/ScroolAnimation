@@ -1,4 +1,4 @@
-Bu projemde Y scoorol yönüne doğru indikçe box divlerin body'nin ortasına kaymasını yaptım.
+Bu projemde sayfa aşağıya doğru indikçe box divlerin body'nin ortasına kaymasını yaptım.
 
 
 
